@@ -26,17 +26,17 @@ After students' registration in person in New Bulgarian University administratio
 
 # What is the first thing you will see after log in?
 
-## Home Page
+## *Home Page*
 After logging in students will see the Home Page which contains information about most recent news. 
 
-## Evaluation
+## *Evaluation*
 After that they can continue with 'Evaluation' where students can check their grades and teachers can write them. A student can not check other student grades. Also from this tab students can find their individual protocs which are used in order to go on exam which you couldnt pass before.
 
-## Schedules
+## *Schedules*
 Next tab which is visible to students are schedules where students can get informed about there future classes. Students can check individual schedules, which are schedules designed individually by each student. Not to miss Session schedules where students can check for their main exams in the end of the year. Also there are official working hours in which students can get in  touch with the lecturer and discuss things face to face.  
 
-## Registration
+## *Registration*
 Students use this tab in order to register for their future semester. After registering they can create there individual schedule and to choose classes which they want to attend. Also student can check their both paid and unpaid taxes.
 
-## References
+## *References*
 This tab is used in order to finally students check their exam grades and to check their overall presentation during the semester. There also student can check their Health Insurance, paid by New Bulgarian University, Individual plans of education and List of approved accreditation requests.
