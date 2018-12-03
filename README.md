@@ -1,4 +1,4 @@
-# nbu-e-student
+# New Bulgarian University e-student
 Platform used from NBU students, teachers.
 
 ![GitHub Logo](https://student.nbu.bg/images/logo-estudent.png)
