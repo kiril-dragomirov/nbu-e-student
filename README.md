@@ -22,7 +22,7 @@ Main purpose of the platform is to keep in touch both students and teachers. To 
 7. Students to check unpaid taxes.
 
 # How students use it?
-After students' registration in person in New Bulgarian University administration, they receive unique student number which usually starts with capital 'F' and have 5 numbers after it. They will use it in order to log in in e-student platform. But faculty number is not the only thing students will use to log in. They also need a password. For first password students will use their Personal Number. After that they can change it any time. And after you log in you can start your surfing experience. 
+After students' registration in person in New Bulgarian University administration, they receive unique student number which usually starts with capital 'F' and have 5 numbers after it. They will use it in order to log in in e-student platform on address https://student.nbu.bg/. But faculty number is not the only thing students will use to log in. They also need a password. For first password students will use their Personal Number. After that they can change it any time. And after you log in you can start your surfing experience. 
 
 # What is the first thing you will see after log in?
 
@@ -30,7 +30,7 @@ After students' registration in person in New Bulgarian University administratio
 After logging in students will see the Home Page which contains information about most recent news. 
 
 ## *Evaluation*
-After that they can continue with 'Evaluation' where students can check their grades and teachers can write them. A student can not check other student grades. Also from this tab students can find their individual protocs which are used in order to go on exam which you couldnt pass before.
+After that they can continue with 'Evaluation' where students can check their grades and teachers can write them. A student can not check other student grades. Also from this tab students can find their individual protocols which are used in order to go on exam which you couldnt pass before.
 
 ## *Schedules*
 Next tab which is visible to students are schedules where students can get informed about there future classes. Students can check individual schedules, which are schedules designed individually by each student. Not to miss Session schedules where students can check for their main exams in the end of the year. Also there are official working hours in which students can get in  touch with the lecturer and discuss things face to face.  
