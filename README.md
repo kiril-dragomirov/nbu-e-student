@@ -25,4 +25,8 @@ After students' registration in person in New Bulgarian University administratio
 
 # What is the first thing you will see after log in?
 
-After logging in students will see the Home Page which contains information about most recent news. After that they can continue 
+## Home Page
+After logging in students will see the Home Page which contains information about most recent news. 
+
+## Evaluation
+After that they can continue with 'Evaluation' where students can check their grades and teachers can write them. A student can not check other student grades. Also from this tab students can find their individual protocs which are used in order to go on exam which you couldnt pass before.
