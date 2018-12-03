@@ -1,6 +1,8 @@
 # nbu-e-student
 Platform used from NBU students, teachers.
 
+![GitHub Logo](https://student.nbu.bg/images/logo-estudent.png)
+
 # Introduction
 The main clause of this project is to represent you NBU e-Student, which is the main NBU student platform.
 
@@ -19,4 +21,8 @@ Nbu e-Student is mainly being used from students which study in New Bulgarian Un
 7. Students to check unpaid taxes.
 
 # How students use it?
-After students' registration in person in New Bulgarian University administration, they receive unique student number which usually starts with capital 'F' and have 5 numbers after it. They will use it in order to log in in e-student platform. But faculty number is not the only thing students will use to log in. They also need a password. For first password students will use their Personal Number. After that they can change it any time. 
+After students' registration in person in New Bulgarian University administration, they receive unique student number which usually starts with capital 'F' and have 5 numbers after it. They will use it in order to log in in e-student platform. But faculty number is not the only thing students will use to log in. They also need a password. For first password students will use their Personal Number. After that they can change it any time. And after you log in you can start your surfing experience. 
+
+# What is the first thing you will see after log in?
+
+After logging in students will see the Home Page which contains information about most recent news. After that they can continue 
