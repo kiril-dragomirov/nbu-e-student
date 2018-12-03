@@ -10,7 +10,7 @@ The main clause of this project is to represent you NBU e-Student, which is the 
 Nbu e-Student is mainly being used from students which study in New Bulgarian University and Teachers who teach students in New Bulgarian University. 
 
 # What is the main purpose of the platform?
-
+Main purpose of the platform is to keep in touch both students and teachers. To keep informed students in order to make their studying experience in New Bulgarian University enjoyable. Also it saves a lot of time, it is user- friendly.
 
 # What is it mainly being used?
 1. Mostly students use it in order to get inform about there future education year in NBU.
